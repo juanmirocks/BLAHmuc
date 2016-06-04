@@ -19,6 +19,13 @@ a:hover {
   border: 1px solid #fff;
 }
 
+.content p, .content li {
+  text-align: left;
+}
+
+a {
+  font-weight: bold;
+}
 
 /*
  * Base structure
