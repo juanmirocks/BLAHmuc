@@ -37,9 +37,61 @@ p {
 }
 
 ul {
+  margin-top: 0;
   padding-top: 0;
   margin-bottom: 40px;
-  font-size: 18px;
+  font-size: 20px;
+}
+
+ul.organizers {
+  padding-top: 30px;
+}
+
+table {
+    table-layout: fixed;
+    font-size: 20px;
+}
+th {
+  background-color: #f28610;
+  text-align: center;
+}
+td {
+  background-color: white;
+  color: dimgray;
+}
+
+table.schedule a {
+  color: dimgray;
+}
+
+table.schedule a:hover {
+  color: dimgray;
+}
+
+.schedule {
+  font-size: 120%;
+}
+
+.schedule td {
+  text-align: left;
+  color: dimgray;
+}
+
+.schedule .start, .schedule .end {
+  font-family: "Inconsolata", "Courier", monospace;
+  font-weight: bold;
+}
+
+.schedule .start::after {
+    content: " - ";
+}
+
+.schedule .end::after {
+    content: " | ";
+}
+
+.schedule .break {
+  color: green;
 }
 
 @media(min-width:768px) {
@@ -71,6 +123,10 @@ a:focus {
 .lightest {
   font-weight: normal;
   font-size: 90%;
+}
+
+.lowcase {
+  text-transform: lowercase;
 }
 
 .navbar-custom {
