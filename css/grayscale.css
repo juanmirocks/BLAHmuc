@@ -56,6 +56,14 @@ td {
   color: dimgray;
 }
 
+table.schedule a {
+  color: dimgray;
+}
+
+table.schedule a:hover {
+  color: dimgray;
+}
+
 .schedule {
   font-size: 120%;
 }
