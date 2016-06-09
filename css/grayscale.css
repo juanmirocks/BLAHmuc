@@ -43,6 +43,10 @@ ul {
   font-size: 20px;
 }
 
+ul.organizers {
+  padding-top: 30px;
+}
+
 table {
     table-layout: fixed;
     font-size: 20px;
