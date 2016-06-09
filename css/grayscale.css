@@ -40,7 +40,21 @@ ul {
   margin-top: 0;
   padding-top: 0;
   margin-bottom: 40px;
-  font-size: 18px;
+  font-size: 20px;
+}
+
+table {
+    table-layout: fixed;
+    font-size: 20px;
+}
+th {
+  background-color: #ed912d;
+  text-align: center;
+}
+td {
+  background-color: white;
+  color: dimgray;
+  font-size: 20px
 }
 
 @media(min-width:768px) {
