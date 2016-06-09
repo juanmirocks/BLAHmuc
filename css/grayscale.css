@@ -54,7 +54,32 @@ th {
 td {
   background-color: white;
   color: dimgray;
-  font-size: 20px
+}
+
+.schedule {
+  font-size: 120%;
+}
+
+.schedule td {
+  text-align: left;
+  color: dimgray;
+}
+
+.schedule .start, .schedule .end {
+  font-family: "Inconsolata", "Courier", monospace;
+  font-weight: bold;
+}
+
+.schedule .start::after {
+    content: " - ";
+}
+
+.schedule .end::after {
+    content: " | ";
+}
+
+.schedule .break {
+  color: green;
 }
 
 @media(min-width:768px) {
