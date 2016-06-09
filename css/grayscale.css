@@ -94,6 +94,14 @@ table.schedule a:hover {
   color: green;
 }
 
+iframe {
+   display: block;
+   width: 100%;
+   height: 400px;
+}
+
+/* end */
+
 @media(min-width:768px) {
     p {
         margin: 0 0 35px;
