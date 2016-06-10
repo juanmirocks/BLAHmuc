@@ -48,7 +48,6 @@ ul.organizers {
 }
 
 table {
-    table-layout: fixed;
     font-size: 130%;
 }
 th {
@@ -58,6 +57,9 @@ th {
 td {
   background-color: white;
   color: dimgray;
+}
+td:hover {
+  background-color: aliceblue;
 }
 
 table.schedule a {
