@@ -17,7 +17,7 @@ The exact program is on the [#BLAHmuc website](http://blahmuc.linkedannotation.o
 
 We will also have the opportunity to enjoy one day at the Oktoberfest in Munich.
 
-**Important**: due to the hectic Oktoberfest period, please contact us without delay regarding hotel reservations.
+**Important**: due to the hectic Oktoberfest period, please contact us without delay regarding hotel reservations. Please advance us your intention of participation as soon as possible: [blahmuc@rostlab.org](mailto:blahmuc@rostlab.org)
 
 <br/>
 
