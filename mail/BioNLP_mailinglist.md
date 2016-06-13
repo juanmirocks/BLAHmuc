@@ -1,3 +1,6 @@
+to: bionlp@bionlp.org
+cc: jdkim@dbcls.rois.ac.jp, assistant@rostlab.org, jorge@tagtog.net
+
 # #BLAHmuc hackathon, Sept 19-23 Munich, Call
 
 # [#BLAHmuc hackathon](http://blahmuc.linkedannotation.org) - September 19-23, 2016 @ Munich
@@ -14,7 +17,7 @@ The exact program is on the [#BLAHmuc website](http://blahmuc.linkedannotation.o
 
 We will also have the opportunity to enjoy one day at the Oktoberfest in Munich.
 
-**Important**: due to the hectic Oktoberfest period, please contact us without delay about hotel reservations.
+**Important**: due to the hectic Oktoberfest period, please contact us without delay regarding hotel reservations.
 
 <br/>
 
