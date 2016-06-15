@@ -1,5 +1,5 @@
 to: bionlp@bionlp.org
-cc: jdkim@dbcls.rois.ac.jp, assistant@rostlab.org, jorge@tagtog.net
+cc: jdkim@dbcls.rois.ac.jp, assistant@rostlab.org, jorge@tagtog.net, rg@rostlab.org
 
 # #BLAHmuc hackathon, Sept 19-23 Munich, Call
 
