@@ -7,9 +7,9 @@ cc: jdkim@dbcls.rois.ac.jp, assistant@rostlab.org, jorge@tagtog.net
 
 ## Call for Applications
 
-\#BLAHmuc is a one-week hackathon plus symposium co-organized by Rostlab, Technische Universität München, DBCLS, and tagtog. #BLAHmuc is a sister event of BLAH [(Biomedical Linked Annotation Hackathon)](http://2015.linkedannotation.org/).
+\#BLAHmuc is a one-week hackathon plus symposium co-organized by <a href="https://rostlab.org">Rostlab</a>, <a href="https://www.tum.de/en/homepage/">Technische Universität München</a>, <a href="http://dbcls.rois.ac.jp/en">DBCLS</a>, and <a href="https://www.tagtog.net">tagtog</a>. #BLAHmuc is a sister event of [BLAH (Biomedical Linked Annotation Hackathon)](http://2015.linkedannotation.org/).
 
-We invite annotation tools, developers of text mining methods, and, specially, public biomedical databases and other projects. We ask participants to submit a 1-page description of the project they want to present or accomplish in the #BLAHmuc hackathon. **Deadline: July 24th**.
+We invite annotation tools, developers of text mining methods, and, specially, public biomedical databases and other projects. We ask participants to submit a 1-page description of the project they want to present or accomplish in the #BLAHmuc hackathon. **Deadline: July 6th**.
 
 Our goal is to improve the interoperability of biomedical text mining systems and make them readily usable for final users. In particular, we focus on formalizing REST APIs and exchange formats, and receive feedback from the final biomedical users to improve those. Together.
 
@@ -17,7 +17,7 @@ The exact program is on the [#BLAHmuc website](http://blahmuc.linkedannotation.o
 
 We will also have the opportunity to enjoy one day at the Oktoberfest in Munich.
 
-**Important**: due to the hectic Oktoberfest period, please contact us without delay regarding hotel reservations. Please advance us your intention of participation as soon as possible: [blahmuc@rostlab.org](mailto:blahmuc@rostlab.org)
+**Important**: due to the hectic Oktoberfest period, please contact us without delay regarding hotel reservations. Please, and specially if you cannot submit an application on time, communicate us your intention of participation as soon as possible: [blahmuc@rostlab.org](mailto:blahmuc@rostlab.org)
 
 <br/>
 
