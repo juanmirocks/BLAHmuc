@@ -7,7 +7,7 @@ cc: jdkim@dbcls.rois.ac.jp, assistant@rostlab.org, jorge@tagtog.net, rg@rostlab.
 
 ## Call for Applications
 
-\#BLAHmuc is a one-week hackathon plus symposium co-organized by <a href="https://rostlab.org">Rostlab</a>, <a href="https://www.tum.de/en/homepage/">Technische Universität München</a>, <a href="http://dbcls.rois.ac.jp/en">DBCLS</a>, and <a href="https://www.tagtog.net">tagtog</a>. #BLAHmuc is a sister event of [BLAH (Biomedical Linked Annotation Hackathon)](http://2015.linkedannotation.org/).
+\#BLAHmuc is a one-week hackathon plus symposium co-organized by [Rostlab](https://rostlab.org), [Technische Universität München](https://www.tum.de/en/homepage/), [DBCLS](http://dbcls.rois.ac.jp/en), and [tagtog](https://www.tagtog.net). #BLAHmuc is a sister event of [BLAH (Biomedical Linked Annotation Hackathon)](http://2015.linkedannotation.org/).
 
 We invite annotation tools, developers of text mining methods, and, specially, public biomedical databases and other projects. We ask participants to submit a 1-page description of the project they want to present or accomplish in the #BLAHmuc hackathon. **Deadline: July 6th**.
 

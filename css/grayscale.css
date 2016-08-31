@@ -96,6 +96,10 @@ table.schedule a:hover {
   color: green;
 }
 
+.schedule .talk {
+  color: rgb(14, 133, 219);
+}
+
 iframe {
   display: block;
   width: 100%;
