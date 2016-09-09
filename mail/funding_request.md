@@ -1,8 +1,8 @@
-#BLAHmuc Hackathon
+#BLAHmuc Hackathon, Funding
 
 Dear `???`,
 
-my name is Juan Miguel Cejuela, a PhD student at TU Munich, under Prof. Dr. Burkhard Rost.
+my name is Juan Miguel Cejuela, a PhD student at TU Munich, Chair of Bioinformatics, Prof. Dr. Burkhard Rost.
 
 I write you as I thought your institution could profit from the [BLAHmuc hackathon](http://blahmuc.linkedannotation.org) to be celebrated this September 19-23, in Munich. The goal of the hackathon is to improve the web APIs of text mining services for the benefit of the biomedical community. Selected participants provide solutions for the finding of diseases, drugs, or other biological ontologies in the scientific literature. All results will be made public and open source. The hackathon is jointly co-organized by [Rostlab](https://rostlab.org), [Technische Universität München](https://www.tum.de/en/homepage/), [DBCLS](http://dbcls.rois.ac.jp/en), and [tagtog](https://www.tagtog.net).
 
