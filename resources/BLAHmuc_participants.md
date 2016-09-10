@@ -12,7 +12,7 @@
 
 * P M Juan Miguel Cejuela
 - Several attendants but without fixed participations:
-    - Prof. Dr. Burkhard Rost
+    - K Prof. Dr. Burkhard Rost
     - M? Inga Weise
     - M? Tim Karl
     - M Tatyana Goldberg
@@ -41,7 +41,7 @@
 ## Participants
 
 * P M K. Bretonnel Cohen (from 19th to 22nd)
-* P M Lars Juhl Jensen (from 19th to 21st)
+* K M Lars Juhl Jensen (from 19th to 21st)
 * P M Nikola Milosevic (coming late on Monday, ~14h)
 * P M Mariana Neves
 * P M Elvis Hsin-Hui Wu
