@@ -31,4 +31,4 @@ Thank you, and **see you very soon!**
 
 <br/>
 
-With ♥️ \#BLAHmuc Organizers (Rostlab, TUM, DBCLS, and tagtog), Inga Weise, Tim Karl, and Juan Miguel Cejuela
+With ♥️ \#BLAHmuc Organizers (Rostlab, TUM, DBCLS, and tagtog), Jin-Dong Kim, Inga Weise, Tim Karl, and Juan Miguel Cejuela
