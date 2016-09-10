@@ -100,8 +100,12 @@ table.schedule a:hover {
   color: green;
 }
 
+.schedule .keynote {
+  color: orange;
+}
+
 .schedule .talk {
-  color: rgb(14, 133, 219);
+  color: gray; /* rgb(14, 133, 219); */
 }
 
 iframe {
