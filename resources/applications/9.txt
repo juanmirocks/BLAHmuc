@@ -1,0 +1,29 @@
+EDAM is the ontology of bioinformatics types of data, data formats, operations, and topics. Among other use cases, EDAM provides bioinformatics-specific terms for text mining, and its concepts may be used when representing linked data.
+
+http://github.com/edamontology/edamontology
+
+http://edamontology.org/EDAM.owl
+
+http://doi.org/10.1093/bioinformatics/btt113
+
+
+
+Bio.Tools is the emerging universal registry for bioinformatics tools, services, and databases. Its scope includes tools and data resources for text mining within computational and molecular biology.
+
+http://github.com/bio-tools/biotoolsregistry
+
+http://bio.tools
+
+http://doi.org/10.1093/nar/gkv1116
+
+
+
+There are a few directions in which EDAM and Bio.Tools may improve, related to text mining and linked data:
+
+* Registering text-mining tools in Bio.Tools
+* Improvement of text-mining-related concepts and terms in EDAM
+* General testing and improvements of EDAM in text mining
+* General testing and improvements of EDAM in representation of linked data
+* Gathering further requirements for Bio.Tools and EDAM
+
+I would like to hack in these directions together with other interested participants of #BLAHmuc.

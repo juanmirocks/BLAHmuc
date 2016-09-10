@@ -40,12 +40,11 @@
 
 ## Participants
 
-* P M K. Bretonnel Cohen `from 19th to 22nd`
-* K M Lars Juhl Jensen `from 19th to 21st`
+* P M Kevin Bretonnel Cohen `from 19th to 22nd`
+* K P M Lars Juhl Jensen `from 19th to 21st`
 * P M Nikola Milosevic `coming late on Monday, ~14h`
 * P M Mariana Neves
 * P M Elvis Hsin-Hui Wu
-* P M Hamada Nayel
 * P M Fabio Rinaldi
 * M Lenz Furrer
 * P M Matúš Kalaš `from 19th to 21st`
