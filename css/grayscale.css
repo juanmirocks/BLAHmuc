@@ -54,15 +54,22 @@ ul.organizers {
 table {
   font-size: 130%;
 }
+
 th {
   background-color: #f28610;
   text-align: center;
 }
+
 td {
   background-color: white;
   color: dimgray;
 }
+
 td:hover {
+  background-color: aliceblue;
+}
+
+.schedule.table-hover tbody tr:hover td, .schedule.table-hover tbody tr:hover th {
   background-color: aliceblue;
 }
 
@@ -83,18 +90,29 @@ table.schedule a:hover {
   color: dimgray;
 }
 
+.schedule td:not(:last-child){
+    white-space: nowrap;
+}
+
+.schedule td:last-child{
+    width: 100%;
+}
+
+/*white-space:nowrap;
+width: 1px;*/
+
 .schedule .start, .schedule .end {
   font-family: "Inconsolata", "Courier", monospace;
-  font-weight: bold;
+  /*font-weight: bold;*/
 }
 
 .schedule .start::after {
   content: " - ";
 }
 
-.schedule .end::after {
+/*.schedule .end::after {
   content: " | ";
-}
+}*/
 
 .schedule .break {
   color: green;
