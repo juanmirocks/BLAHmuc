@@ -1,6 +1,10 @@
-Dear [#BLAHmuc](http://blahmuc.linkedannotation.org) participants and friends!
+# 💥 #BLAHmuc hackathon on Monday 19th 💥
 
-time flies and the #BLAHmuc symposium & hackathon is already here, starting on **Monday 19th!**. We are looking forward to creating great tools and exploring innovative uses for _bio text mining_, together!
+---
+
+Dear **#BLAHmuc** participants and friends!
+
+time flies and the [**#BLAHmuc symposium & hackathon**](http://blahmuc.linkedannotation.org) is already here, starting on **Monday 19th!**. We are looking forward to creating great tools and exploring innovative uses for **bio text mining**, together!
 
 Here is some last info:
 
@@ -14,7 +18,7 @@ Faculty of Informatics, TU München. This is in the city of Garching, northeast 
 
 ##### [ONLINE PARTICIPATION]
 
-All symposium talks on Monday 19th and Tuesday 20th will be recorded and live streamed! Presenters can opt to stop the recording of their talks. Details here: http://blahmuc.linkedannotation.org/#online-participation
+All symposium talks on Monday 19th and Tuesday 20th will be recorded and **live streamed**! Presenters can opt to stop the recording of their talks. Details here: http://blahmuc.linkedannotation.org/#online-participation
 
 ##### [FUNDING]
 
