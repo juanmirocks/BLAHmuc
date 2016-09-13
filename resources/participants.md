@@ -2,7 +2,7 @@
 
 ### DBCLS
 
-* K M [Dr. Jin-Dong Kim](http://data.dbcls.jp/~jdkim/)
+* K M O [Dr. Jin-Dong Kim](http://data.dbcls.jp/~jdkim/)
 
 ### tagtog
 
@@ -10,15 +10,15 @@
 
 ## Rostlab
 
-* P M Juan Miguel Cejuela
+* P M O Juan Miguel Cejuela
 - Several attendants but without fixed participations:
-    - K Prof. Dr. Burkhard Rost
-    - M? Inga Weise
-    - M? Tim Karl
-    - M Tatyana Goldberg
-    - M? Guy Yachdav
-    - M? Jonas Reeb
-    - M? Michael Bernhofer
+    - K O Prof. Dr. Burkhard Rost
+    - M? O Inga Weise
+    - O Tim Karl
+    - M? O Tatyana Goldberg
+    - M? O Guy Yachdav
+    - Jonas Reeb
+    - Michael Bernhofer
 
 ## Special Invitees
 
@@ -32,6 +32,7 @@
 * M? Yohan Jarosz `from 19th to 21st September`
 * M? Wei Gu `from 19th to 21st September`
 * M? Marek Ostaszewski `from 19th to 21st September`
+* M? Maharshi VYAS `from 19th to 21st September`
 
 ### Universidad Politécnica de Madrid
 
@@ -40,14 +41,15 @@
 
 ## Participants
 
-* P M Kevin Bretonnel Cohen `from 19th to 22nd`
-* K P M Lars Juhl Jensen `from 19th to 21st`
-* P M Nikola Milosevic `coming late on Monday, ~14h`
-* P M Mariana Neves
-* P M Elvis Hsin-Hui Wu
-* P M Fabio Rinaldi
-* M Lenz Furrer
-* P M Matúš Kalaš `from 19th to 21st`
+* P M O Kevin Bretonnel Cohen `from 19th to 22nd`
+* K P O M Lars Juhl Jensen `from 19th to 21st`
+* P M O Nikola Milosevic `coming late on Monday, ~14h`
+* P M O Mariana Neves
+* M O Maja Rey
+* P M O Elvis Hsin-Hui Wu
+* P M O? Fabio Rinaldi
+* M O? Lenz Furrer
+* P M O Matúš Kalaš `from 19th to 21st`
 
 
 ## Online
