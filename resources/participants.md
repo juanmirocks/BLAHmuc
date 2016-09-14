@@ -17,8 +17,8 @@
     - O Tim Karl
     - M? O Tatyana Goldberg
     - M? O Guy Yachdav
-    - Jonas Reeb
-    - Michael Bernhofer
+    - M Edda Kloppmann
+
 
 ## Special Invitees
 
@@ -44,11 +44,11 @@
 * P M O Kevin Bretonnel Cohen `from 19th to 22nd`
 * K P O M Lars Juhl Jensen `from 19th to 21st`
 * P M O Nikola Milosevic `coming late on Monday, ~14h`
-* P M O Mariana Neves
+* P M O Mariana Neves `from 19th to 21st`
 * M O Maja Rey
 * P M O Elvis Hsin-Hui Wu
-* P M O? Fabio Rinaldi
-* M O? Lenz Furrer
+* P M O? Fabio Rinaldi `19th only`
+* M O? Lenz Furrer `19 to 20 only`
 * P M O Matúš Kalaš `from 19th to 21st`
 
 
