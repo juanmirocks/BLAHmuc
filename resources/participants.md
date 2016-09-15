@@ -18,6 +18,7 @@
     - M? O Tatyana Goldberg
     - M? O Guy Yachdav
     - M Edda Kloppmann
+    - M3 Andrea Schafferhans
 
 
 ## Special Invitees
@@ -37,6 +38,10 @@
 ### Universidad Politécnica de Madrid
 
 * P M? Alexander Garcia Castro
+
+### Others
+
+* M Jiajun `19th to 20th`
 
 
 ## Participants

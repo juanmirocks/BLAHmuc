@@ -132,6 +132,12 @@ iframe {
   height: 400px;
 }
 
+.live-stream {
+  border-style: solid;
+  border-width: thick;
+  background-color: orange;
+}
+
 /* end */
 
 @media(min-width:768px) {
