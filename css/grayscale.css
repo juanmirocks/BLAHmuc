@@ -138,6 +138,17 @@ iframe {
   background-color: orange;
 }
 
+span.jetbrains-logo {
+  display: inline-block;
+  padding-bottom: 30px;
+}
+
+span.jetbrains-logo img {
+  max-width: 25%;
+  margin: 0 auto;
+}
+
+
 /* end */
 
 @media(min-width:768px) {
