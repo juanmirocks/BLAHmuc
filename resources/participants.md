@@ -37,10 +37,6 @@
 * M Marek Ostaszewski `from 19th to 21st September`
 * M Maharshi VYAS `from 19th to 21st September`
 
-### Universidad Politécnica de Madrid
-
-* P M? Alexander Garcia Castro
-
 
 ## Participants
 
@@ -49,7 +45,6 @@
 * P M O Nikola Milosevic `coming late on Monday, ~14h`
 * P M O Mariana Neves `from 19th to 21st`
 * M O Maja Rey
-* P M O Elvis Hsin-Hui Wu
 * P Fabio Rinaldi `19th only`
 * M O? Lenz Furrer `19 to 20 only`
 * P M O Matúš Kalaš `from 19th to 21st`
