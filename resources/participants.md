@@ -20,6 +20,7 @@
     - M Edda Kloppmann
     - M3 Andrea Schafferhans
     - P? M2 Jiajun Qiu
+    - P M Madhukar Sollepura Prabhu Shankar
 
 
 ## Special Invitees
