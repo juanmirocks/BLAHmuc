@@ -44,7 +44,6 @@
 * K P O M Lars Juhl Jensen `from 19th to 21st`
 * P M O Nikola Milosevic `coming late on Monday, ~14h`
 * P M O Mariana Neves `from 19th to 21st`
-* M O Maja Rey `from 19th to 20th`
 * P Fabio Rinaldi `19th only`
 * M O? Lenz Furrer `19 to 20th only`
 * P M O Matúš Kalaš `from 19th to 21st`
